@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, SQL, HTML**
 
-- 📫 How to reach me **contact@voltis.me**
+- 📫 How to reach me **voltis@xenonlabs.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
