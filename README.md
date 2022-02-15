@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [some discord bots](https://frank-bot.xyz)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **JS**
 
 - 💬 Ask me about **Python, SQL, HTML**
 
