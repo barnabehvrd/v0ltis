@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Barnabé</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate student developer from France</h3>
 
 - 🌱 I’m currently learning **Java, C and PHP**
 
